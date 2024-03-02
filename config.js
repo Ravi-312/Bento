@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Artemis',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -50,7 +50,7 @@ const CONFIG = {
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
-	firstButtonsContainer: [
+	//firstButtonsContainer: [
 		{
 			id: '1',
 			name: 'Github',
@@ -89,7 +89,7 @@ const CONFIG = {
 		},
 	],
 
-	secondButtonsContainer: [
+	//secondButtonsContainer: [
 		{
 			id: '1',
 			name: 'Music',
@@ -133,7 +133,7 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	firstlistsContainer: [
+	//firstlistsContainer: [
 		{
 			icon: 'music',
 			id: '1',
@@ -181,7 +181,7 @@ const CONFIG = {
 	],
 
 	// Second Links Container
-	secondListsContainer: [
+	//secondListsContainer: [
 		{
 			icon: 'binary',
 			id: '1',
